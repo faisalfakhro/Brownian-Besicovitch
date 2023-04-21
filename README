@@ -1,0 +1,3 @@
+Some python code to simulate the randomized construction of Besicovitch sets using Brownian motion. Based on the result from this paper:
+
+https://www.ams.org/journals/tran/2014-366-10/S0002-9947-2014-06226-0/S0002-9947-2014-06226-0.pdf
